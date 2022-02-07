@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uqursuz0
 - 👀 I’m interested in "Data Science", "Blockchain"
-- 🌱 I’m currently learning "python", "C#", "JavaScript", "Solidity"
+- 🌱 I’m currently learning "python", "C#", "JavaScript", "Solidity", "SQL"
 - 💞️ I’m looking to collaborate on -does not mater-
 - 📫 How to reach me via mail "yurumez19@itu.edu.tr"
 
